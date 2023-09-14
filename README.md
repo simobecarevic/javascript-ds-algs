@@ -1,2 +1,2 @@
-# js_ds_algs
-Implementation of DataStructures and Algorithms in JavaScript
+# JavaScript Data Structures and Algorithms
+Implementations of DataStructures and Algorithms in JavaScript
